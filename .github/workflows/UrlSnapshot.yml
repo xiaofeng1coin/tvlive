@@ -32,9 +32,12 @@ jobs:
       run: python assets/snapshot/snapshot.py
           
     - name: Commit changes
+      env:
+        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
       run: |
-          git config --local user.email "lijianjia.n856@gmail.com"
-          git config --local user.name "FengXiao-Bot"
+          git config --global user.email "${GIT_USER_EMAIL}"
+          git config --global user.name "${GIT_USER_NAME}"
 
           # 将归档文件打包zip文件
           current_date=$(date +%Y-%m-%d)

@@ -31,9 +31,12 @@ jobs:
       run: python assets/freetv/freetv.py
           
     - name: Commit changes
+      env:
+        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
       run: |
-          git config --global user.email "lijianjia.n856@gmail.com"
-          git config --global user.name "FengXiao-Bot"
+          git config --global user.email "${GIT_USER_EMAIL}"
+          git config --global user.name "${GIT_USER_NAME}"
           git add assets/freetv/freetv_output.txt
           git add assets/freetv/freetv_output_cctv.txt
           git add assets/freetv/freetv_output_ws.txt
