@@ -33,8 +33,8 @@ jobs:
           
     - name: Commit changes
       run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "lijianjia.n856@gmail.com"
+          git config --local user.name "FengXiao-Bot"
 
           # 将归档文件打包zip文件
           current_date=$(date +%Y-%m-%d)
@@ -47,6 +47,6 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHU_TOKEN }}
+        github_token: ${{ secrets.FengXiao-Bot_TOKEN }}
     
         
