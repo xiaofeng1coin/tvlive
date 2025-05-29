@@ -32,12 +32,9 @@ jobs:
       run: python assets/snapshot/snapshot.py
           
     - name: Commit changes
-      env:
-        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
-        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
       run: |
-          git config --global user.email "${GIT_USER_EMAIL}"
-          git config --global user.name "${GIT_USER_NAME}"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
 
           # 将归档文件打包zip文件
           current_date=$(date +%Y-%m-%d)
@@ -50,6 +47,6 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.Bot_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     
         

@@ -1,3 +1,4 @@
+CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
 星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -6,11 +7,14 @@
 星空卫视,http://171.213.140.54:8123/udp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
 TVN,https://stream1.freetv.fun/tvn-3.m3u8
+贝爷MAX厅,http://zzy789.xyz/douyu1.php?id=4332
 贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
 贝爷求生影视2,http://fy27.zbds.top:55455/douyu/9661369
 贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
+贝爷,http://www.douzhicloud.site:35455/douyu/4332
 挨饿德•1,https://live.iill.top/huya/20985858
 挨饿德•2,https://live.iill.top/huya/17693860
 挨饿德•1,http://dns.yiandrive.com:15907/huya/20985858

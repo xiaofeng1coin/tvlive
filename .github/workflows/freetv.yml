@@ -31,12 +31,9 @@ jobs:
       run: python assets/freetv/freetv.py
           
     - name: Commit changes
-      env:
-        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
-        GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
       run: |
-          git config --global user.email "${GIT_USER_EMAIL}"
-          git config --global user.name "${GIT_USER_NAME}"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git add assets/freetv/freetv_output.txt
           git add assets/freetv/freetv_output_cctv.txt
           git add assets/freetv/freetv_output_ws.txt
@@ -58,6 +55,6 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.Bot_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     
         
