@@ -3906,18 +3906,17 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「NBA」08:30 -季后赛-森林狼VS雷霆-全场回放（杨健、周琦、苏群、小七）,https://tv.iill.top/NBA/wEpDPD
-「NBA」08:30 -季后赛-森林狼VS雷霆-全场回放（邢晨）,https://tv.iill.top/NBA/7zasIV
-「NBA」08:30 -季后赛-森林狼VS雷霆-全场回放（罗森）,https://tv.iill.top/NBA/iF0Njs
-「NBA」08:30 -季后赛-森林狼VS雷霆-全场回放（英文原声）,https://tv.iill.top/NBA/TEJ9Se
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-1号桌,https://tv.iill.top/Migu/9hmuJB
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-2号桌,https://tv.iill.top/Migu/7N0nVU
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-3号桌,https://tv.iill.top/Migu/Dx1eLJ
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-8号桌,https://tv.iill.top/Migu/9zMbru
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-7号桌,https://tv.iill.top/Migu/9yl76j
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-6号桌,https://tv.iill.top/Migu/2cv3qc
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-5号桌,https://tv.iill.top/Migu/k9ef5c
-「斯诺克」17:00 -欧洲Q-School第二站第二轮-第二轮-4号桌,https://tv.iill.top/Migu/txpDOE
+「NBA」07:55 季后赛 步行者VS尼克斯 英文原声,https://tv.iill.top/NBA/h0f5yr
+「NBA」07:55 季后赛 步行者VS尼克斯 VIP前排视角,https://tv.iill.top/NBA/C8DiF3
+「NBA」07:55 季后赛 步行者VS尼克斯 球场十倍镜,https://tv.iill.top/NBA/G5qhiJ
+「斯诺克」17:00 第三轮 第三轮 1号桌,https://tv.iill.top/Migu/2DnVm3
+「斯诺克」17:00 第三轮 第三轮 2号桌,https://tv.iill.top/Migu/80xgvA
+「斯诺克」17:00 第三轮 第三轮 3号桌,https://tv.iill.top/Migu/G5akLU
+「斯诺克」17:00 第三轮 第三轮 6号桌,https://tv.iill.top/Migu/zQMmm4
+「斯诺克」17:00 第三轮 第三轮 7号桌,https://tv.iill.top/Migu/Q2Vhaq
+「斯诺克」17:00 第三轮 第三轮 8号桌,https://tv.iill.top/Migu/BgZodj
+「斯诺克」17:00 第三轮 第三轮 5号桌,https://tv.iill.top/Migu/hDPXG1
+「斯诺克」17:00 第三轮 第三轮 4号桌,https://tv.iill.top/Migu/vvHvJu
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
